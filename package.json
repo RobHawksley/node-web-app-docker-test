@@ -1,0 +1,13 @@
+{
+  "name": "node_web_app_docker_test",
+  "version": "1.0.1",
+  "description": "Node.js on Docker",
+  "author": "Robert Hawksley <robert.s.hawksley@team.telstra.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
